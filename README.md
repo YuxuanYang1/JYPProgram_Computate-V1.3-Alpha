@@ -30,7 +30,7 @@ The V1.3-Alpha version of JYPProgram_Computate
 *V1.3-start* 2026.9.25
 成功实现图形化。
 
-*V1.3-poblic* 2026.9.26
+*V1.3-public* 2026.9.26
 上传至GitHub，并做了些修正
 
 *V1.3-Alpha* 2026.10.2
